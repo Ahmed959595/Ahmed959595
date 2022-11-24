@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ahmed959595
-- 👀 I’m interested in everything
+- 👀 
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
